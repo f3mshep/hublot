@@ -3,6 +3,13 @@
 PrettyStamps makes Facebook-style datetime-contextual datetimes a cinch for your ActiveRecord objects. 
 Originally developed for Rails by Brett Shollenberger. Ported for use in Sinatra by Alexandra Wright.
 
+To use, please enter:
+
+require 'pretty'
+
+in your application
+
+
 == Examples
 
 ==== Comment created just now:

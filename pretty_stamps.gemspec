@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["superbiscuit@gmail.com, brett.shollenberger@gmail.com"]
   s.homepage    = "https://github.com/f3mshep/hublot"
   s.summary     = "Adds datetime humanization to Active Record objects."
-  s.description = "Humanizes datetime for Active Record objects.Ported from Rails by Alexandra Wright, intended for use in the Sinatra microframework"
+  s.description = "Humanizes datetime for Active Record objects. Ported from Rails by Alexandra Wright, intended for use in the Sinatra microframework. Please require 'pretty' in your application"
   s.license  = "MIT"
 
 
